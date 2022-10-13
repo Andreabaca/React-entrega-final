@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotify-f26c5.appspot.com/o/nirvana.webp?alt=media&token=6ec58520-4e99-4197-95ae-d5ccae3479fa');
+    background-position: top center;
+    background-size: cover;
+    padding: 5% 20% 40% 20%;
+}
